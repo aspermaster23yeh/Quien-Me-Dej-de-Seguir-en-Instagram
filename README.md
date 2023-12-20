@@ -63,6 +63,14 @@ Me descargo de responsabilidad: Esto no está afiliado, asociado, autorizado, re
 
 
 
+# CREDITOS
+
+@DAVIDARROYO1234
+@tomleb3
+@RuanAragao
+
+
+
 
 
 
